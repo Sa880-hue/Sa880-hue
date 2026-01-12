@@ -22,14 +22,6 @@ Currently building hands-on analytics projects and strengthening analytical thin
 
 ---
 
-## 📌 Featured Projects
-
-* 📊 **Sales Data Analysis** — Cleaned and analyzed sales data to uncover trends and patterns
-* 🧾 **SQL Analytics Practice** — Business-style queries on structured datasets
-* 📈 **Exploratory Data Analysis (EDA)** — Dataset exploration with visual insights
-
----
-
 ## 📫 Connect with Me
 
 * **LinkedIn:** www.linkedin.com/in/sanya2004

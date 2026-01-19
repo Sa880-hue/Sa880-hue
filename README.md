@@ -7,7 +7,7 @@ Currently building hands-on analytics projects and strengthening analytical thin
 
 ## 🛠 Tech Stack
 
-* **Languages:** Python, SQL
+* **Languages:** Python, SQL, R 
 * **Libraries:** Pandas, NumPy, Matplotlib
 * **Tools:** Jupyter Notebook, Git, GitHub
 * **Analytics Skills:** Data Cleaning, EDA, Basic Visualization, Insight Reporting, Business Problem Analysis
